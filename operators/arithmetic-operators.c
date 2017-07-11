@@ -1,3 +1,6 @@
+//author :- Sudheer Kumar Daram
+//RGUKTN
+
 #include<stdio.h>
 int main(){
 	
